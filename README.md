@@ -1,1 +1,6 @@
-Hi there, I'm Cüneyt Şener 
+<h1 align="center">Hi 👋, I'm Cüneyt Şener</h1>
+<h3 align="center">A passionate frontend developer from Turker</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
