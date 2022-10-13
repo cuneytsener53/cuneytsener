@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cuneytsener53&label=Profile%20views&color=0e75b6&style=flat" alt="cuneytsener53" /> </p>
 
-
 - 🔭 I’m currently working on **C#,C++,Mysql,Php,Erp**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, Python, WordPress,Active Directory, Python, ERP ,PHP Moodle...**
@@ -14,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/cuneysener53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cuneysener53" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/cuneytsener53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cuneytsener53" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@cuneytsener53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@cuneytsener53" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
