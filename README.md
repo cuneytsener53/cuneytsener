@@ -5,7 +5,7 @@
 
 - 🔭I'm currently working to become a **Full Stack Developer.**
 
-- 🌱 I’m currently learning **C#,C++,Mysql,Php,Erp**
+- 🌱 I’m currently learning **C#,C++,Mysql,Php,Erp.(.net),Python,Linux**
 
 - 👨‍💻 All of my projects are available at [https://cuneytsener.com/](https://cuneytsener.com/)
 
