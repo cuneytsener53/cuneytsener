@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Cüneyt Şener</h1>
-<h3 align="center">👨🏻‍💻  About Me Türkiye'den tutkulu bir Yazılım geliştiricisi</h3>
+<h2 align="center">👨🏻‍💻  About Me : A passionate Software developer from Turkey</h2>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=cuneytsener53&label=Profile%20views&color=0e75b6&style=flat" alt="cuneytsener53" /> </p>
 
