@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cuneytsener53&label=Profile%20views&color=0e75b6&style=flat" alt="cuneytsener53" /> </p>
 
-- 🔭 I’m currently working on **C#,C++,Mysql,Php,Erp**
+- 🔭I'm currently working to become a **Full Stack Developer.**
+
+- 🌱 I’m currently learning **C#,C++,Mysql,Php,Erp**
+
+- 👨‍💻 All of my projects are available at [https://cuneytsener.com/](https://cuneytsener.com/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, Python, WordPress,Active Directory, Python, ERP ,PHP Moodle...**
 
